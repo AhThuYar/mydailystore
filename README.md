@@ -1,16 +1,6 @@
 # mydailystore
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1746716440](https://github.com/user-attachments/assets/8e99186d-5ea6-4e63-8676-7b539081501d)
+![Screenshot_1746716395](https://github.com/user-attachments/assets/2743f074-3dd3-49d5-be61-c4ee8e43a320)
+![Screenshot_1746716399](https://github.com/user-attachments/assets/ff577a27-29af-408e-ab0c-e2a266c3d382)
